@@ -1,0 +1,2 @@
+C# Demo Collection (Demo 1 - Demo 20)
+This repository contains a collection of C# demos, showcasing a wide range of fundamental and advanced concepts in C# programming. Each demo (from Demo 1 to Demo 20) serves as a practical example of key features, techniques, and best practices in C# development. These demos are designed to help developers at any skill level understand and experiment with various aspects of C#.
